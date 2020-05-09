@@ -1,0 +1,36 @@
+body {
+  background-color: snow;
+  color: black;
+}
+
+.headerText {
+  color: black;
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.searchInput {
+  margin-top: 2em;
+}
+
+.right-align {
+  text-align: center;
+}
+
+.tableEmployee {
+  border: solid;
+  margin: 0 auto;
+}
+
+.thEmployee {
+  border: solid;
+}
+
+.tbody {
+  border: solid;
+}
+
+.img {
+  border: solid;
+  border-radius: 50%;
+}
